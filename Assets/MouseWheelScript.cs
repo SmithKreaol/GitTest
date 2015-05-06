@@ -3,8 +3,6 @@ using System.Collections;
 
 public class MouseWheelScript : MonoBehaviour {
     
-    //Hello There
-
     public float cameraScrollSpeed; //Control how fast the camera zooms
     public bool middlePressed; //For storing if our middle mouse button is pressed or not
     public Camera myCamera; //For storing and using our camera
